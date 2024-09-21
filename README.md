@@ -7,4 +7,6 @@ My research focuses on gravitational physics, with a particular emphasis on blac
 
 You can check my publications list on [INSPIRE](https://inspirehep.net/authors/1700348).
 
-[![Zhen Zhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuroraDysis&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AuroraDysis&show_icons=true&theme=tokyonight" alt="Zhen Zhong's GitHub stats" />
+</p>
