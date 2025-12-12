@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zhen Zhong</h1>
 
-I am a Ph.D. student at University of Lisbon.
+I am a postdoc at Sapienza University of Rome.
 
 My research focuses on gravitational physics, with a particular emphasis on black holes, ultra-compact objects, and numerical relativity.
 
